@@ -1,39 +1,218 @@
-[
-  {
-    "id": "lena",
-    "ad": "Lena",
-    "yas": 22,
-    "anlatim": "Zarif ve gizemli bir genç kadın modeldir. Oval yüzü, yüksek elmacık kemikleri ve dar çenesi ile simetrik ve dengeli bir görünüme sahiptir. Bakışları sıcak ve gizemli bir hava taşır.",
-    "sabitPromptEn": "A 22-year-old whose elegance commands attention. She stands tall at 180cm with an athletic hourglass figure. Her flawless porcelain skin contrasts beautifully with her features. She has a perfectly oval face, framed by high cheekbones and a delicate chin. Her olive-green eyes, flecked with gold, hold a hint of captivating mystery, reflecting both confidence and a slightly reserved nature.",
-    "anchorAccessoryEn": "She always wears a simple, delicate silver necklace.",
-    "img": "https://raw.githubusercontent.com/Lenastyle61/Gorseliletisim/main/lena%20profil%20resmi.png",
-    "stil": {
-      "sacModeli": {
-        "tr": "Doğal Dalgalı",
-        "en": "Natural Wavy"
-      },
-      "sacRengi": {
-        "tr": "Espresso Kahve",
-        "en": "Espresso Brown"
-      },
-      "makyaj": {
-        "tr": "Minimal ve Doğal",
-        "en": "Minimal and Natural"
-      },
-      "kiyafet": {
-        "tr": "",
-        "en": ""
-      },
-      "aksesuarlar": [
-        "Yok"
-      ]
+{
+  "CHARACTERS_JSON_URL": "https://raw.githubusercontent.com/LenaKayraStyle/AiFotofilm/main/characters.json",
+  "translations": {
+    "tr": {
+      "tabKarakterler": "Karakterler",
+      "tabOrtam": "Ortam",
+      "tabStilOdasi": "Stil Odası",
+      "tabSahneleme": "Sahneleme",
+      "tabFotofilm": "Fotofilm",
+      "kaydet": "Kaydet",
+      "iptal": "İptal",
+      "kapat": "Kapat",
+      "uyari": "Uyarı",
+      "hata": "Hata",
+      "basarili": "Başarılı",
+      "olusturuluyor": "Oluşturuluyor...",
+      "tamam": "Tamam",
+      "iptalEt": "İptal Et",
+      "iptalEdildi": "İptal Edildi",
+      "iptalEdildiMesaj": "İşlem kullanıcı tarafından iptal edildi.",
+      "karakterKutuphanesi": "Karakter Kütüphanesi",
+      "yas": "yaş",
+      "duzenle": "Düzenle",
+      "sahnedenCikar": "Sahneden Çıkar",
+      "sahneyeSec": "Sahneye Seç",
+      "karakterDuzenle": "Karakteri Düzenle",
+      "ad": "Ad",
+      "anlatim": "Anlatım",
+      "sabitPrompt": "Sabit Prompt (AI için)",
+      "sabitPromptEn": "Sabit Prompt (AI için - İngilizce)",
+      "sesKarakteri": "Ses Karakteri",
+      "ton": "Ton",
+      "perde": "Perde (Pitch)",
+      "hiz": "Hız (Pace)",
+      "sesYasi": "Ses Yaşı",
+      "sesNetligi": "Ses Tınısı / Netliği",
+      "karakterlerYukleniyor": "Uygulama verileri yükleniyor...",
+      "karakterYuklemeHatasi": "Gerekli uygulama verileri sunucudan çekilemedi: ",
+      "degisiklikleriKaydet": "Değişiklikleri GitHub'a Kaydet",
+      "kaydediliyor": "Kaydediliyor...",
+      "githubKayitBasarili": "Karakter verileri başarıyla GitHub'a kaydedildi!",
+      "githubKayitHata": "GitHub'a kaydederken hata oluştu: ",
+      "githubAyarlari": "GitHub Ayarları",
+      "githubAciklama": "Karakter verilerini GitHub deponuza kaydetmek için lütfen aşağıdaki bilgileri girin. Bu bilgiler sadece sizin tarayıcınızda saklanacaktır.",
+      "githubTokenAciklama": "Token oluştururken 'repo' yetkisini seçmeniz yeterlidir.",
+      "githubTokenLink": "Buradan yeni bir token oluşturun.",
+      "githubKullaniciAdi": "GitHub Kullanıcı Adı",
+      "githubDepoAdi": "Depo Adı",
+      "githubToken": "Kişisel Erişim Token'ı (PAT)",
+      "ayarlariKaydet": "Ayarları Kaydet",
+      "ortamTanimi": "Ortam Tasarımı",
+      "zamanDilimi": "Zaman Dilimi",
+      "atmosfer": "Atmosfer",
+      "mevsim": "Mevsim",
+      "havaDurumu": "Hava Durumu",
+      "pozisyonEtkilesim": "Karakter Pozisyonu ve Etkileşim",
+      "pozisyonEtkilesimPlaceholder": "Örn: Lena ve Kayra şezlonglarda uzanmış, birbirlerine dönük sohbet ediyorlar...",
+      "ortamArkaPlan": "Ortam ve Arka Plan",
+      "ortamArkaPlanPlaceholder": "Örn: Kalabalık bir yaz plajı, altın rengi kumlar, denizde yüzen insanlar...",
+      "aiAnlatimOlusturucu": "AI ile Anlatımları Oluştur",
+      "zamanDilimiSec": "Zaman Dilimi Seç",
+      "atmosferSec": "Atmosfer Seç",
+      "mevsimSec": "Mevsim Seç",
+      "havaDurumuSec": "Hava Durumu Seç",
+      "stilOdasi": "Stil Odası",
+      "karakterSecUyarisi": "Stilini düzenlemek için önce 'KARAKTERLER' sekmesinden bir karakter seçin.",
+      "kostumKarti": "Kostüm Kartı",
+      "sacModeli": "Saç Modeli",
+      "sacRengi": "Saç Rengi",
+      "makyaj": "Makyaj",
+      "kiyafet": "Kıyafet",
+      "aksesuarlar": "Aksesuarlar",
+      "aiStilOnerisi": "AI Kıyafet Önerisi Al",
+      "oneriliyor": "Öneriliyor...",
+      "sahneleme": "Sahneleme ve Sinematografi",
+      "gorselVeSinematografi": "Görsel ve Sinematografi Ayarları",
+      "gorselStil": "Görsel Stil",
+      "cekimOlcegi": "Çekim Ölçeği",
+      "kameraHareketi": "Kamera Hareketi",
+      "cekimOlcegiSec": "Çekim Ölçeği Seç",
+      "kameraHareketiSec": "Kamera Hareketi Seç",
+      "enBoyOrani": "En-Boy Oranı (Tüm Sahneler)",
+      "yapilandirma": "Sahne Yapılandırma",
+      "istenenSahneSayisi": "İstenen Sahne Sayısı",
+      "aiSahneleriOlustur": "AI Reji Asistanı ile Sahne Kurgula",
+      "fotoPromptuOlustur": "Foto Prompt'u Oluştur",
+      "videoPromptuOlustur": "Video Prompt'u Oluştur",
+      "tumFotoPromptlariniOlustur": "Tüm Foto Prompt'larını Oluştur",
+      "tumVideoPromptlariniOlustur": "Tüm Video Prompt'larını Oluştur",
+      "nihaiTurkcePrompt": "Nihai Türkçe Prompt:",
+      "ingilizceCeviri": "İngilizce Ceviri (Görsel API için):",
+      "promptKopyala": "Prompt'u Kopyala",
+      "kopyalandi": "Kopyalandı!",
+      "veo3PromptOlustur": "Veo3 Prompt'u Oluştur",
+      "veo3PromptBaslik": "Veo3 Prompt (Video API için):",
+      "tutarlilikAnalizi": "Tutarlılık Analizi",
+      "tutarlilikAnaliziRaporu": "Tutarlılık Analizi Raporu",
+      "analizYap": "Tutarlılık Analizi Yap",
+      "otomatikDuzelt": "Otomatik Düzelt",
+      "analizEdiliyor": "Analiz ediliyor...",
+      "duzeltiliyor": "Düzeltiliyor...",
+      "corePromptUyarisi": "Çekirdek prompt, karakter tutarlılığı için önerilen 1700 karakter sınırını aşıyor.",
+      "fotofilm": "Fotofilm",
+      "sahneSec": "Görüntülenecek Sahneyi Seçin",
+      "seciliSahneyiOlustur": "Seçili Sahneyi Oluştur",
+      "tumFotograflariOlustur": "Tüm Fotoğrafları Oluştur",
+      "tumVideolariOlustur": "Tüm Videoları Oluştur",
+      "seciliSahneOnizleme": "Selected Scene Preview",
+      "storyboardGorunumu": "Storyboard Görünümü",
+      "gorselBekleniyor": "Görsel bekleniyor...",
+      "slaytGosterimi": "Tüm Sahneler - Slayt Gösterimi",
+      "otomatikOynat": "Otomatik Oynat",
+      "duraklat": "Duraklat",
+      "tekrarOlustur": "Tekrar Oluştur",
+      "fotografPromptu": "Fotoğraf Prompt'u",
+      "veo3Promptu": "Veo 3 Prompt'u",
+      "presetYonetimi": "Preset Yönetimi",
+      "yeniPresetAdi": "Yeni Preset Adı",
+      "presetAdiPlaceholder": "Örn: Proje X - Sahne 1",
+      "kayitliPresetler": "Kayıtlı Presetler",
+      "presetYok": "Kayıtlı preset bulunmuyor.",
+      "yukle": "Yükle",
+      "sil": "Sil",
+      "tumSecimleriSifirla": "Tüm Seçimleri Sıfrla",
+      "sifirlandiMesaj": "Tüm seçimleriniz başarıyla sıfırlandı.",
+      "presetler": "Presetler",
+      "islemDevamEdiyor": "İşlem Devam Ediyor",
+      "tamamlandi": "tamamlandı",
+      "sahnePromptuOlusturuluyor": "Sahne {sceneNumber} prompt'ları oluşturuluyor...",
+      "etkilesimGirUyarisi": "Lütfen bir eylem ve konumlandırma istemi girin.",
+      "karakterSecimUyarisi": "Lütfen önce en az bir karakter seçin.",
+      "ortamTanimUyarisi": "Lütfen önce ortam tanımı oluşturun veya manuel olarak girin.",
+      "promptOlusturmaUyarisi": "Lütfen önce 'Sahne {sceneNumber}' için tam prompt oluşturun.",
+      "onceFotoPromptUyarisi": "Video prompt'u oluşturmak için önce fotoğraf prompt'unu oluşturmalısınız.",
+      "gecerliSahneSecUyarisi": "Geçerli bir sahne seçin.",
+      "apiMetinHata": "Metin oluşturulurken bir hata oluştu: ",
+      "apiGorselHata": "Görüntü oluşturulurken bir hata oluştu: ",
+      "apiGorselBOSDondu": "Görüntü oluşturulamadı. API boş yanıt döndürdü.",
+      "gecersizFormatHata": "Stil önerisi alınken geçersiz formatta yanıt alındı.",
+      "presetKayitHata": "Preset kaydedilirken bir hata oluştu."
+    }
+  },
+  "ASPECT_PRESETS": [
+    { "value": "16:9", "label": { "tr": "Yatay", "en": "Horizontal" }, "class": "aspect-video" },
+    { "value": "9:16", "label": { "tr": "Dikey", "en": "Vertical" }, "class": "aspect-[9/16]" },
+    { "value": "1:1", "label": { "tr": "Kare", "en": "Square" }, "class": "aspect-square" },
+    { "value": "4:3", "label": { "tr": "Standart", "en": "Standard" }, "class": "aspect-[4/3]" },
+    { "value": "3:4", "label": { "tr": "Yüksek", "en": "Tall" }, "class": "aspect-[3/4]" }
+  ],
+  "VISUAL_STYLES": [
+    { "value": "Hiper Gerçekçi", "label": { "tr": "Hiper Gerçekçi", "en": "Hyper Realistic" }, "description": { "tr": "Son derece detaylı ve gerçekçi, 4K çözünürlük.", "en": "Extremely detailed and realistic, 4K resolution." }, "prompt": "photorealistic, professional photography, 4K UHD, tack-sharp focus, high detail, detailed skin texture, sharp and detailed eyes, realistic lighting, anamorphic lens bokeh, HDR10+, high dynamic range, rich color grading, Dolby Vision look, atmospheric depth. Critical Note: Avoid any artistic styles like anime, manga, cartoon, illustration, painting, 3D render, CGI, or stylized effects. Maintain absolute photorealism." },
+    { "value": "Sinematik", "label": { "tr": "Sinematik", "en": "Cinematic" }, "description": { "tr": "Geniş dinamik aralık, dramatik aydınlatma ve film estetiği.", "en": "Wide dynamic range, dramatic lighting, and film aesthetic." }, "prompt": "cinematic still, film grain, anamorphic lens flare, rich color grading, dramatic lighting, high dynamic range, atmospheric depth. Critical Note: Must look like a real movie still, not an illustration or 3D render." },
+    { "value": "Anime", "label": { "tr": "Anime", "en": "Anime" }, "description": { "tr": "Canlı, parlak renkler ve stilize, el çizimi sanat eseri.", "en": "Vibrant colors and stylized, hand-drawn artwork." }, "prompt": "anime style, cel-shading, vibrant colors, clean outlines, dynamic action pose, detailed background art, 2D illustration, manga-inspired shading, Japanese animation aesthetic, hand-drawn textures" },
+    { "value": "Pixar Animasyon", "label": { "tr": "Pixar Animasyon", "en": "Pixar Animation" }, "description": { "tr": "Yumuşak dokular, canlı renkler ve iyimser atmosfer.", "en": "Soft textures, vivid colors, and an upbeat atmosphere." }, "prompt": "Pixar style, 3D CGI animation, soft textures, stylized lighting, vivid colors, playful mood, exaggerated expressions, subsurface scattering, cartoon rendering, clean smooth shading" },
+    { "value": "Ghibli Stili", "label": { "tr": "Ghibli Stili", "en": "Ghibli Style" }, "description": { "tr": "Suluboya arka planlar ve pastel renk paletleri.", "en": "Watercolor backgrounds and pastel color palettes." }, "prompt": "Studio Ghibli style, watercolor background, soft pastel palette, whimsical fantasy setting, hand-painted look, natural scenery, magical realism, warm light tones, dreamy atmosphere, Japanese anime fantasy" }
+  ],
+  "SHOT_SCALES": [
+    { "value": "Ultra Geniş Açı", "label": { "tr": "Ultra Geniş Açı", "en": "Extreme Wide Shot" }, "shortPrompt": "Extreme wide shot, establishing the scene with a vast panoramic view.", "prompt": "Extreme wide shot, using a 14mm lens for a vast panoramic perspective, establishing the scene with an epic, sweeping view. The subject appears small, emphasizing the grand scale of the environment. Deep focus ensures clarity from foreground to background, creating an immersive, cinematic feel. Consistent scale and positioning." },
+    { "value": "Geniş Açı", "label": { "tr": "Geniş Açı", "en": "Wide Shot" }, "shortPrompt": "Wide shot, showing the subject's full body in relation to their surroundings.", "prompt": "Wide shot, captured with a 24mm lens, showing the subject's full body in relation to their surroundings. This shot provides balanced environmental context, framed with a natural depth of field for clear, cinematic storytelling. Maintains consistent character proportions and positioning." },
+    { "value": "Orta Çekim", "label": { "tr": "Orta Çekim", "en": "Medium Shot" }, "shortPrompt": "Medium shot, framing the subject from the waist up.", "prompt": "A medium shot taken with a 50 mm lens to mimic the human eye, framing the subject from the waist up. Natural human perspective, cinematic balance, sharp focus on subject movement, 4K resolution, high detail. This creates a perfect, natural, and balanced perspective for capturing interactions and body language with sharp focus." },
+    { "value": "Yakın Çekim", "label": { "tr": "Yakın Çekim", "en": "Close-up" }, "shortPrompt": "Close-up, framing the head and shoulders.", "prompt": "Close-up, shot on an 85mm prime lens, framing the head and shoulders to capture intimate emotions. A shallow depth of field creates beautiful cinematic bokeh, drawing all attention to the subject's expressive facial details and tack-sharp eyes. Consistent facial positioning and lighting." },
+    { "value": "Detay Çekim", "label": { "tr": "Detay Çekim", "en": "Extreme Close-up" }, "shortPrompt": "Extreme close-up, focusing on a single, tiny detail.", "prompt": "Extreme close-up, using a 100mm macro lens, focusing on a single, tiny detail like an eye or a texture. Hyper-sharp focus and an ultra-shallow depth of field create a dramatic, cinematic highlight on micro-details. Consistent detail focus and quality." },
+    { "value": "Omuz Üstü", "label": { "tr": "Omuz Üstü", "en": "Over-the-Shoulder" }, "shortPrompt": "Over-the-shoulder shot.", "prompt": "Over-the-shoulder shot, with a 50mm lens, creating a conversational, point-of-view perspective. The foreground shoulder is softly blurred, guiding the viewer's eye to the main subject with natural depth and cinematic composition. Consistent perspective and positioning." }
+  ],
+  "CAMERA_MOVEMENTS": {
+    "tr": ["Sabit", "Yavaş Kaydırma (Slow Pan)", "Yavaş Yaklaşma (Slow Dolly In)", "Yavaş Uzaklaşma (Slow Dolly Out)", "Takip (Tracking)", "Yukarı / Aşağı Kaydırma (Tilt)", "Zoom In / Out"],
+    "en": ["Static", "Slow Pan", "Slow Dolly In", "Slow Dolly Out", "Tracking", "Tilt", "Zoom In / Out"]
+  },
+  "ENVIRONMENT_OPTIONS": {
+    "zaman-dilimi": { "tr": ["Gündoğumu", "Öğlen", "Gün Batımı", "Gece"], "en": ["Sunrise", "Noon", "Sunset", "Night"] },
+    "atmosfer": { "tr": ["Gizemli", "Neşeli", "Gergin", "Huzurlu"], "en": ["Mysterious", "Cheerful", "Tense", "Peaceful"] },
+    "mevsim": { "tr": ["Yaz", "Sonbahar", "Kış", "İlkbahar"], "en": ["Summer", "Autumn", "Winter", "Spring"] },
+    "hava-durumu": { "tr": ["Güneşli", "Parçalı Bulutlu", "Yağmurlu", "Karlı", "Fırtınalı"], "en": ["Sunny", "Partly Cloudy", "Rainy", "Snowy", "Stormy"] }
+  },
+  "STYLE_OPTIONS": {
+    "sacModeli": {
+      "tr": ["Doğal Dalgalı", "Düz ve Uzun", "Küt Kesim Bob", "Pixie Kesim", "Yüksek At Kuyruğu", "Örgülü Topuz", "Yanlara Ayrılmış Lob", "Kısa ve Düzgün"],
+      "en": ["Natural Wavy", "Straight and Long", "Blunt Cut Bob", "Pixie Cut", "High Ponytail", "Braided Bun", "Side-Parted Lob", "Short and Neat"]
     },
-    "voice": {
-      "tone": {
-        "tr": "Yumuşak",
-        "en": "Soft"
-      },
-      "pitch": {
+    "sacRengi": {
+      "tr": ["Espresso Kahve", "Buzlu Platin Sarısı", "Bakır Kızıl", "Gece Siyahı", "Küllü Kumral", "Bal Köpüğü", "Pastel Pembe"],
+      "en": ["Espresso Brown", "Icy Platinum Blonde", "Copper Red", "Midnight Black", "Ash Brown", "Honey Blonde", "Pastel Pink"]
+    },
+    "makyaj": {
+      "tr": ["Minimal ve Doğal", "Dumanlı Göz Makyajı", "Kırmızı Ruj ve Eyeliner", "Grafik Eyeliner", "Parlak ve Işıltılı", "Yok"],
+      "en": ["Minimal and Natural", "Smokey Eye", "Red Lipstick and Eyeliner", "Graphic Eyeliner", "Glossy and Shimmering", "None"]
+    }
+  },
+  "ACCESSORY_OPTIONS": {
+    "tr": ["Yok", "Güneş Gözlüğü", "Kolye", "Bilezik", "Şapka", "Plaj Çantası"],
+    "en": ["None", "Sunglasses", "Necklace", "Bracelet", "Hat", "Beach Bag"]
+  },
+  "VOICE_TONE_OPTIONS": {
+    "tr": ["Sıcak", "Net", "Derin", "Hırıltılı", "Yumuşak", "Tınılı"],
+    "en": ["Warm", "Crisp", "Deep", "Gravelly", "Soft", "Resonant"]
+  },
+  "VOICE_PITCH_OPTIONS": { "tr": ["Düşük", "Orta", "Yüksek"], "en": ["Low", "Medium", "High"] },
+  "VOICE_PACE_OPTIONS": { "tr": ["Yavaş", "Normal", "Hızlı"], "en": ["Slow", "Normal", "Fast"] },
+  "VOICE_AGE_OPTIONS": {
+    "tr": ["Genç Yetişkin", "Yetişkin", "Orta Yaş", "Yaşlı"],
+    "en": ["Young Adult", "Adult", "Middle-Aged", "Elderly"]
+  },
+  "VOICE_CLARITY_OPTIONS": {
+    "tr": ["Net ve Anlaşılır", "Pürüzlü / Kısık", "Fısıltılı / Nefesli", "Genizden Gelen (Nazal)"],
+    "en": ["Clear and Articulate", "Raspy / Hoarse", "Breathy / Soft", "Nasal"]
+  },
+  "TABS": [
+    { "id": "karakterler", "labelKey": "tabKarakterler", "icon": "Users" },
+    { "id": "ortam", "labelKey": "tabOrtam", "icon": "Globe" },
+    { "id": "stil-odasi", "labelKey": "tabStilOdasi", "icon": "Paintbrush" },
+    { "id": "sahneleme", "labelKey": "tabSahneleme", "icon": "Clapperboard" },
+    { "id": "fotofilm", "labelKey": "tabFotofilm", "icon": "Film" }
+  ]
+}
+
         "tr": "Orta",
         "en": "Medium"
       },
