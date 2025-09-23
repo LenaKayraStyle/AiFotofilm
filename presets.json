@@ -1,2 +1,106 @@
-[]
-
+[
+  {
+    "id": "1758617142047",
+    "name": "boş çerçeve prompt lena",
+    "createdAt": "2025-09-23T08:45:42.047Z",
+    "data": {
+      "selectedCharacters": [
+        {
+          "id": "lena",
+          "ad": "Lena",
+          "yas": 22,
+          "anlatim": "Zarif ve gizemli bir genç kadın modeldir. Oval yüzü, yüksek elmacık kemikleri ve dar çenesi ile simetrik ve dengeli bir görünüme sahiptir. Bakışları sıcak ve gizemli bir hava taşır.",
+          "sabitPromptEn": "A 22-year-old whose elegance commands attention. She stands tall at 180cm with an athletic hourglass figure. Her flawless porcelain skin contrasts beautifully with her features. She has a perfectly oval face, framed by high cheekbones and a delicate chin. Her olive-green eyes, flecked with gold, hold a hint of captivating mystery, reflecting both confidence and a slightly reserved nature.",
+          "anchorAccessoryEn": "She always wears a simple, delicate silver necklace.",
+          "img": "https://raw.githubusercontent.com/Lenastyle61/Gorseliletisim/main/lena%20profil%20resmi.png",
+          "stil": {
+            "sacModeli": {
+              "tr": "Doğal Dalgalı",
+              "en": "Natural Wavy"
+            },
+            "sacRengi": {
+              "tr": "Espresso Kahve",
+              "en": "Espresso Brown"
+            },
+            "makyaj": {
+              "tr": "Minimal ve Doğal",
+              "en": "Minimal and Natural"
+            },
+            "kiyafet": {
+              "tr": "Krem rengi ince triko bisiklet yaka kazak, açık mavi yüksek belli rahat kesim kot pantolon, kahverengi süet topuksuz bot.",
+              "en": "Cream-colored fine knit crew neck sweater, light blue high-waisted relaxed fit jeans, brown suede flat boots."
+            },
+            "aksesuarlar": [
+              "Yok"
+            ]
+          },
+          "voice": {
+            "tone": {
+              "tr": "Yumuşak",
+              "en": "Soft"
+            },
+            "pitch": {
+              "tr": "Orta",
+              "en": "Medium"
+            },
+            "pace": {
+              "tr": "Normal",
+              "en": "Normal"
+            },
+            "age": {
+              "tr": "Genç Yetişkin",
+              "en": "Young Adult"
+            },
+            "clarity": {
+              "tr": "Net ve Anlaşılır",
+              "en": "Clear and Articulate"
+            }
+          }
+        }
+      ],
+      "formState": {
+        "zaman-dilimi": "",
+        "atmosfer": "",
+        "mevsim": "",
+        "hava-durumu": "",
+        "ana-duygu": "",
+        "pozisyon-etkilesim": {
+          "tr": "Lena, eski bir sandığın kenarına oturmuş, elindeki tozlu çerçeveyi parmak uçlarıyla okşuyor. Bakışları pencereden dışarıya, tanımlanamayan bir noktaya kilitlenmiş.",
+          "en": "Lena is sitting on the edge of an old chest, caressing the dusty frame in her hand with her fingertips. Her gaze is locked out the window, at an undefined point."
+        },
+        "ortam-arka-plan": {
+          "tr": "Tavan arasındaki gün batımı ışığı, toz zerreciklerini turuncu bir perdede dans ettiriyor. Eski ahşabın ve unutulmuş kumaşların ağır kokusu, mekanın sessizliğini dolduruyor.",
+          "en": "The sunset light in the attic makes the dust particles dance in an orange curtain. The heavy scent of old wood and forgotten fabrics fills the silence of the space."
+        },
+        "gorsel-stil": "Hiper Gerçekçi",
+        "cekim-olcegi": "Yakın Çekim",
+        "kamera-hareketi": "",
+        "sahne-sayisi": 3
+      },
+      "selectedAspectRatio": "9:16",
+      "generatedScenes": [
+        {
+          "directorNote": "sabit geniş açı",
+          "aiSummary": "Lena, eski bir sandığın kenarına oturur. Vücudu hafifçe öne eğiktir. Ellerinde tozlu bir çerçeve tutar. Bakışları pencereden dışarıya doğru yönelmiştir.",
+          "fullPromptEn": "Wide shot, showing the subject's full body in relation to their surroundings.\nLena sits on the edge of an old chest. Her body is slightly leaned forward. She holds a dusty frame in her hands. Her gaze is directed outwards through the window.\n[Lena]: A 22-year-old whose elegance commands attention. She stands tall at 180cm with an athletic hourglass figure. Her flawless porcelain skin contrasts beautifully with her features. She has a perfectly oval face, framed by high cheekbones and a delicate chin. Her olive-green eyes, flecked with gold, hold a hint of captivating mystery, reflecting both confidence and a slightly reserved nature. She always wears a simple, delicate silver necklace.\n- Outfit: Cream-colored fine knit crew neck sweater, light blue high-waisted relaxed fit jeans, brown suede flat boots.\n- Hair: Natural Wavy Espresso Brown\n- Makeup: Minimal and Natural\nThe sunset light in the attic makes the dust particles dance in an orange curtain. The heavy scent of old wood and forgotten fabrics fills the silence of the space.\n[Camera]\nWide shot, captured with a 24mm lens, showing the subject's full body in relation to their surroundings. This shot provides balanced environmental context, framed with a natural depth of field for clear, cinematic storytelling. Maintains consistent character proportions and positioning., Static camera movement\n[Visual Style / Quality]\nphotorealistic, professional photography, 4K UHD, tack-sharp focus, high detail, detailed skin texture, sharp and detailed eyes, realistic lighting, anamorphic lens bokeh, HDR10+, high dynamic range, rich color grading, Dolby Vision look, atmospheric depth. Critical Note: Avoid any artistic styles like anime, manga, cartoon, illustration, painting, 3D render, CGI, or stylized effects. Maintain absolute photorealism.\nImportant Quality Note: Despite the shot scale, the primary subjects (Lena) and their facial features, especially their eyes, must be rendered with high detail and clarity.\n[Negative Prompts]\nblur, low resolution, bad anatomy, deformed hands, duplicate faces, duplicate hair, duplicate body type, duplicate outfits, male, androgynous, text, watermark, low quality, ugly, disfigured, extra limbs, missing limbs, mutated hands. anime, manga, cartoon, illustration, painting, 3D render, CGI, stylized, oversaturated.\n[Technical Specs]\nAspect Ratio: 9:16",
+          "veo3Prompt": null,
+          "corePromptLength": 880
+        },
+        {
+          "directorNote": "yavaş dolly in",
+          "aiSummary": "Lena'nın parmak uçları, tuttuğu tozlu çerçevenin yüzeyini hafifçe okşar. Başını hafifçe aşağı eğer, bakışları çerçeveye odaklanır. Elleri yavaşça nesne üzerinde hareket eder.",
+          "fullPromptEn": "Close-up, framing the head and shoulders.\nLena's fingertips lightly caress the surface of the dusty frame she holds. She lowers her head slightly, her gaze fixed on the frame. Her hands slowly move over the object.\n[Lena]: A 22-year-old whose elegance commands attention. She stands tall at 180cm with an athletic hourglass figure. Her flawless porcelain skin contrasts beautifully with her features. She has a perfectly oval face, framed by high cheekbones and a delicate chin. Her olive-green eyes, flecked with gold, hold a hint of captivating mystery, reflecting both confidence and a slightly reserved nature. She always wears a simple, delicate silver necklace.\n- Outfit: Cream-colored fine knit crew neck sweater, light blue high-waisted relaxed fit jeans, brown suede flat boots.\n- Hair: Natural Wavy Espresso Brown\n- Makeup: Minimal and Natural\nThe sunset light in the attic makes the dust particles dance in an orange curtain. The heavy scent of old wood and forgotten fabrics fills the silence of the space.\n[Camera]\nClose-up, shot on an 85mm prime lens, framing the head and shoulders to capture intimate emotions. A shallow depth of field creates beautiful cinematic bokeh, drawing all attention to the subject's expressive facial details and tack-sharp eyes. Consistent facial positioning and lighting., Slow dolly in camera movement\n[Visual Style / Quality]\nphotorealistic, professional photography, 4K UHD, tack-sharp focus, high detail, detailed skin texture, sharp and detailed eyes, realistic lighting, anamorphic lens bokeh, HDR10+, high dynamic range, rich color grading, Dolby Vision look, atmospheric depth. Critical Note: Avoid any artistic styles like anime, manga, cartoon, illustration, painting, 3D render, CGI, or stylized effects. Maintain absolute photorealism.\nImportant Quality Note: Despite the shot scale, the primary subjects (Lena) and their facial features, especially their eyes, must be rendered with high detail and clarity.\n[Negative Prompts]\nblur, low resolution, bad anatomy, deformed hands, duplicate faces, duplicate hair, duplicate body type, duplicate outfits, male, androgynous, text, watermark, low quality, ugly, disfigured, extra limbs, missing limbs, mutated hands. anime, manga, cartoon, illustration, painting, 3D render, CGI, stylized, oversaturated.\n[Technical Specs]\nAspect Ratio: 9:16",
+          "veo3Prompt": null,
+          "corePromptLength": 853
+        },
+        {
+          "directorNote": "yakın çekim, sabit",
+          "aiSummary": "Lena'nın gözleri pencerenin ötesindeki tanımlanamayan bir noktaya sabitlenmiştir. Yüzünde belirgin bir ifade yoktur, bakışları durağandır. Çerçeve hala ellerinde hareketsiz durmaktadır.",
+          "fullPromptEn": "Close-up, framing the head and shoulders.\nLena's eyes are fixed on an unidentifiable point beyond the window. There is no discernible expression on her face; her gaze is static. The frame still rests motionless in her hands.\n[Lena]: A 22-year-old whose elegance commands attention. She stands tall at 180cm with an athletic hourglass figure. Her flawless porcelain skin contrasts beautifully with her features. She has a perfectly oval face, framed by high cheekbones and a delicate chin. Her olive-green eyes, flecked with gold, hold a hint of captivating mystery, reflecting both confidence and a slightly reserved nature. She always wears a simple, delicate silver necklace.\n- Outfit: Cream-colored fine knit crew neck sweater, light blue high-waisted relaxed fit jeans, brown suede flat boots.\n- Hair: Natural Wavy Espresso Brown\n- Makeup: Minimal and Natural\nThe sunset light in the attic makes the dust particles dance in an orange curtain. The heavy scent of old wood and forgotten fabrics fills the silence of the space.\n[Camera]\nClose-up, shot on an 85mm prime lens, framing the head and shoulders to capture intimate emotions. A shallow depth of field creates beautiful cinematic bokeh, drawing all attention to the subject's expressive facial details and tack-sharp eyes. Consistent facial positioning and lighting., Static camera movement\n[Visual Style / Quality]\nphotorealistic, professional photography, 4K UHD, tack-sharp focus, high detail, detailed skin texture, sharp and detailed eyes, realistic lighting, anamorphic lens bokeh, HDR10+, high dynamic range, rich color grading, Dolby Vision look, atmospheric depth. Critical Note: Avoid any artistic styles like anime, manga, cartoon, illustration, painting, 3D render, CGI, or stylized effects. Maintain absolute photorealism.\nImportant Quality Note: Despite the shot scale, the primary subjects (Lena) and their facial features, especially their eyes, must be rendered with high detail and clarity.\n[Negative Prompts]\nblur, low resolution, bad anatomy, deformed hands, duplicate faces, duplicate hair, duplicate body type, duplicate outfits, male, androgynous, text, watermark, low quality, ugly, disfigured, extra limbs, missing limbs, mutated hands. anime, manga, cartoon, illustration, painting, 3D render, CGI, stylized, oversaturated.\n[Technical Specs]\nAspect Ratio: 9:16",
+          "veo3Prompt": null,
+          "corePromptLength": 863
+        }
+      ]
+    }
+  }
+]
