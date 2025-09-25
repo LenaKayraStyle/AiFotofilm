@@ -1,210 +1,212 @@
-[
-  {
-    "id": "lena",
-    "ad": "Lena",
-    "yas": 22,
-    "anlatim": "Zarif ve gizemli bir genç kadın modeldir. Oval yüzü, yüksek elmacık kemikleri ve dar çenesi ile simetrik ve dengeli bir görünüme sahiptir. Bakışları sıcak ve gizemli bir hava taşır.",
-    "sabitPromptEn": "A 22-year-old whose elegance commands attention. She stands tall at 180cm with an athletic hourglass figure. Her flawless porcelain skin contrasts beautifully with her features. She has a perfectly oval face, framed by high cheekbones and a delicate chin. Her olive-green eyes, flecked with gold, hold a hint of captivating mystery, reflecting both confidence and a slightly reserved nature.",
-    "anchorAccessoryEn": "She always wears a simple, delicate silver necklace.",
-    "img": "https://raw.githubusercontent.com/Lenastyle61/Gorseliletisim/main/lena%20profil%20resmi.png",
-    "stil": {
-      "sacModeli": {
-        "tr": "Doğal Dalgalı",
-        "en": "Natural Wavy"
+{
+  "characters": [
+    {
+      "id": "lena",
+      "ad": "Lena",
+      "yas": 22,
+      "anlatim": "Zarif ve gizemli bir genç kadın modeldir. Oval yüzü, yüksek elmacık kemikleri ve dar çenesi ile simetrik ve dengeli bir görünüme sahiptir. Bakışları sıcak ve gizemli bir hava taşır.",
+      "sabitPromptEn": "A 22-year-old whose elegance commands attention. She stands tall at 180cm with an athletic hourglass figure. Her flawless porcelain skin contrasts beautifully with her features. She has a perfectly oval face, framed by high cheekbones and a delicate chin. Her olive-green eyes, flecked with gold, hold a hint of captivating mystery, reflecting both confidence and a slightly reserved nature.",
+      "anchorAccessoryEn": "She always wears a simple, delicate silver necklace.",
+      "img": "https://raw.githubusercontent.com/Lenastyle61/Gorseliletisim/main/lena%20profil%20resmi.png",
+      "stil": {
+        "sacModeli": {
+          "tr": "Doğal Dalgalı",
+          "en": "Natural Wavy"
+        },
+        "sacRengi": {
+          "tr": "Espresso Kahve",
+          "en": "Espresso Brown"
+        },
+        "makyaj": {
+          "tr": "Minimal ve Doğal",
+          "en": "Minimal and Natural"
+        },
+        "kiyafet": {
+          "tr": "",
+          "en": ""
+        },
+        "aksesuarlar": [
+          "Yok"
+        ]
       },
-      "sacRengi": {
-        "tr": "Espresso Kahve",
-        "en": "Espresso Brown"
-      },
-      "makyaj": {
-        "tr": "Minimal ve Doğal",
-        "en": "Minimal and Natural"
-      },
-      "kiyafet": {
-        "tr": "",
-        "en": ""
-      },
-      "aksesuarlar": [
-        "Yok"
-      ]
+      "voice": {
+        "tone": {
+          "tr": "Yumuşak",
+          "en": "Soft"
+        },
+        "pitch": {
+          "tr": "Orta",
+          "en": "Medium"
+        },
+        "pace": {
+          "tr": "Normal",
+          "en": "Normal"
+        },
+        "age": {
+          "tr": "Genç Yetişkin",
+          "en": "Young Adult"
+        },
+        "clarity": {
+          "tr": "Net ve Anlaşılır",
+          "en": "Clear and Articulate"
+        }
+      }
     },
-    "voice": {
-      "tone": {
-        "tr": "Yumuşak",
-        "en": "Soft"
+    {
+      "id": "kayra",
+      "ad": "Kayra",
+      "yas": 21,
+      "anlatim": "Enerjik ve eğlenceli bir genç kadın modeldir. Yuvarlak yüz hatları, belirgin yanakları ve hafifçe dolgun dudaklarıyla genç ve neşeli bir görünüm sunar.",
+      "sabitPromptEn": "A 21-year-old radiating youthful energy. At 175cm, she has a slim, athletic build. Her warm, light-toned skin glows with a natural vibrancy. Her round face, with prominent cheeks and slightly full lips, gives her a perpetually cheerful and fun-loving look. Her most striking feature is her bright blue eyes, which are full of life and excitement.",
+      "anchorAccessoryEn": "She always has a thin black leather bracelet on her right wrist.",
+      "img": "https://raw.githubusercontent.com/Lenastyle61/Gorseliletisim/main/kayra%20profil%20resmi.png",
+      "stil": {
+        "sacModeli": {
+          "tr": "Yanlara Ayrılmış Lob",
+          "en": "Side-Parted Lob"
+        },
+        "sacRengi": {
+          "tr": "Pastel Pembe",
+          "en": "Pastel Pink"
+        },
+        "makyaj": {
+          "tr": "Kırmızı Ruj ve Eyeliner",
+          "en": "Red Lipstick and Eyeliner"
+        },
+        "kiyafet": {
+          "tr": "",
+          "en": ""
+        },
+        "aksesuarlar": [
+          "Yok"
+        ]
       },
-      "pitch": {
-        "tr": "Orta",
-        "en": "Medium"
+      "voice": {
+        "tone": {
+          "tr": "Net",
+          "en": "Crisp"
+        },
+        "pitch": {
+          "tr": "Yüksek",
+          "en": "High"
+        },
+        "pace": {
+          "tr": "Hızlı",
+          "en": "Fast"
+        },
+        "age": {
+          "tr": "Genç Yetişkin",
+          "en": "Young Adult"
+        },
+        "clarity": {
+          "tr": "Net ve Anlaşılır",
+          "en": "Clear and Articulate"
+        }
+      }
+    },
+    {
+      "id": "alara",
+      "ad": "Alara",
+      "yas": 23,
+      "anlatim": "Sosyetik ve karizmatik bir güzellik. Keskin ve belirgin çene hattına sahip kalp şeklinde bir yüzü var. Kendine güvenen duruşu ve etkileyici bakışlarıyla her ortamda dikkat çeker.",
+      "sabitPromptEn": "A 23-year-old who possesses a sophisticated and charismatic presence. She is 177cm tall with a slim, elegant figure. Her skin has a sun-kissed golden Mediterranean olive tone. Her heart-shaped face, with a sharply defined jawline, gives her a strikingly beautiful look. Her captivating honey-colored eyes and shoulder-length platinum blonde hair complete her unforgettable appearance.",
+      "anchorAccessoryEn": "She is never seen without her elegant gold hoop earrings.",
+      "img": "https://raw.githubusercontent.com/Lenastyle61/Gorseliletisim/main/alara%20profil%20resmi.png",
+      "stil": {
+        "sacModeli": {
+          "tr": "Küt Kesim Bob",
+          "en": "Blunt Cut Bob"
+        },
+        "sacRengi": {
+          "tr": "Buzlu Platin Sarısı",
+          "en": "Icy Platinum Blonde"
+        },
+        "makyaj": {
+          "tr": "Dumanlı Göz Makyajı",
+          "en": "Smokey Eye"
+        },
+        "kiyafet": {
+          "tr": "",
+          "en": ""
+        },
+        "aksesuarlar": [
+          "Yok"
+        ]
       },
-      "pace": {
-        "tr": "Normal",
-        "en": "Normal"
+      "voice": {
+        "tone": {
+          "tr": "Tınılı",
+          "en": "Resonant"
+        },
+        "pitch": {
+          "tr": "Orta",
+          "en": "Medium"
+        },
+        "pace": {
+          "tr": "Normal",
+          "en": "Normal"
+        },
+        "age": {
+          "tr": "Genç Yetişkin",
+          "en": "Young Adult"
+        },
+        "clarity": {
+          "tr": "Net ve Anlaşılır",
+          "en": "Clear and Articulate"
+        }
+      }
+    },
+    {
+      "id": "metin",
+      "ad": "Metin",
+      "yas": 36,
+      "anlatim": "Esprili ve eğlenceli bir erkek fotoğrafçıdır. Maskülen duruşu, yuvarlak çenesi ve belirgin yüz hatları ile kadın karakterlerden tamamen farklıdır.",
+      "sabitPromptEn": "A 35-year-old male photographer known for his witty and fun personality. Standing at 185cm, he has a solid, athletic build. His light brown skin suggests a life spent both indoors and out. His friendly brown eyes and short, neat black hair give him the look of a seasoned and approachable professional.",
+      "anchorAccessoryEn": "He always wears a classic leather-strap watch.",
+      "img": "https://raw.githubusercontent.com/Lenastyle61/Gorseliletisim/main/metin%20profil%20resmi.png",
+      "stil": {
+        "sacModeli": {
+          "tr": "Kısa ve Düzgün",
+          "en": "Short and Neat"
+        },
+        "sacRengi": {
+          "tr": "Gece Siyahı",
+          "en": "Midnight Black"
+        },
+        "makyaj": {
+          "tr": "Yok",
+          "en": "None"
+        },
+        "kiyafet": {
+          "tr": "",
+          "en": ""
+        },
+        "aksesuarlar": [
+          "Yok"
+        ]
       },
-      "age": {
-        "tr": "Genç Yetişkin",
-        "en": "Young Adult"
-      },
-      "clarity": {
-        "tr": "Net ve Anlaşılır",
-        "en": "Clear and Articulate"
+      "voice": {
+        "tone": {
+          "tr": "Derin",
+          "en": "Deep"
+        },
+        "pitch": {
+          "tr": "Düşük",
+          "en": "Low"
+        },
+        "pace": {
+          "tr": "Normal",
+          "en": "Normal"
+        },
+        "age": {
+          "tr": "Yetişkin",
+          "en": "Adult"
+        },
+        "clarity": {
+          "tr": "Net ve Anlaşılır",
+          "en": "Clear and Articulate"
+        }
       }
     }
-  },
-  {
-    "id": "kayra",
-    "ad": "Kayra",
-    "yas": 21,
-    "anlatim": "Enerjik ve eğlenceli bir genç kadın modeldir. Yuvarlak yüz hatları, belirgin yanakları ve hafifçe dolgun dudaklarıyla genç ve neşeli bir görünüm sunar.",
-    "sabitPromptEn": "A 21-year-old radiating youthful energy. At 175cm, she has a slim, athletic build. Her warm, light-toned skin glows with a natural vibrancy. Her round face, with prominent cheeks and slightly full lips, gives her a perpetually cheerful and fun-loving look. Her most striking feature is her bright blue eyes, which are full of life and excitement.",
-    "anchorAccessoryEn": "She always has a thin black leather bracelet on her right wrist.",
-    "img": "https://raw.githubusercontent.com/Lenastyle61/Gorseliletisim/main/kayra%20profil%20resmi.png",
-    "stil": {
-      "sacModeli": {
-        "tr": "Yanlara Ayrılmış Lob",
-        "en": "Side-Parted Lob"
-      },
-      "sacRengi": {
-        "tr": "Pastel Pembe",
-        "en": "Pastel Pink"
-      },
-      "makyaj": {
-        "tr": "Kırmızı Ruj ve Eyeliner",
-        "en": "Red Lipstick and Eyeliner"
-      },
-      "kiyafet": {
-        "tr": "",
-        "en": ""
-      },
-      "aksesuarlar": [
-        "Yok"
-      ]
-    },
-    "voice": {
-      "tone": {
-        "tr": "Net",
-        "en": "Crisp"
-      },
-      "pitch": {
-        "tr": "Yüksek",
-        "en": "High"
-      },
-      "pace": {
-        "tr": "Hızlı",
-        "en": "Fast"
-      },
-      "age": {
-        "tr": "Genç Yetişkin",
-        "en": "Young Adult"
-      },
-      "clarity": {
-        "tr": "Net ve Anlaşılır",
-        "en": "Clear and Articulate"
-      }
-    }
-  },
-  {
-    "id": "alara",
-    "ad": "Alara",
-    "yas": 23,
-    "anlatim": "Sosyetik ve karizmatik bir güzellik. Keskin ve belirgin çene hattına sahip kalp şeklinde bir yüzü var. Kendine güvenen duruşu ve etkileyici bakışlarıyla her ortamda dikkat çeker.",
-    "sabitPromptEn": "A 23-year-old who possesses a sophisticated and charismatic presence. She is 177cm tall with a slim, elegant figure. Her skin has a sun-kissed golden Mediterranean olive tone. Her heart-shaped face, with a sharply defined jawline, gives her a strikingly beautiful look. Her captivating honey-colored eyes and shoulder-length platinum blonde hair complete her unforgettable appearance.",
-    "anchorAccessoryEn": "She is never seen without her elegant gold hoop earrings.",
-    "img": "https://raw.githubusercontent.com/Lenastyle61/Gorseliletisim/main/alara%20profil%20resmi.png",
-    "stil": {
-      "sacModeli": {
-        "tr": "Küt Kesim Bob",
-        "en": "Blunt Cut Bob"
-      },
-      "sacRengi": {
-        "tr": "Buzlu Platin Sarısı",
-        "en": "Icy Platinum Blonde"
-      },
-      "makyaj": {
-        "tr": "Dumanlı Göz Makyajı",
-        "en": "Smokey Eye"
-      },
-      "kiyafet": {
-        "tr": "",
-        "en": ""
-      },
-      "aksesuarlar": [
-        "Yok"
-      ]
-    },
-    "voice": {
-      "tone": {
-        "tr": "Tınılı",
-        "en": "Resonant"
-      },
-      "pitch": {
-        "tr": "Orta",
-        "en": "Medium"
-      },
-      "pace": {
-        "tr": "Normal",
-        "en": "Normal"
-      },
-      "age": {
-        "tr": "Genç Yetişkin",
-        "en": "Young Adult"
-      },
-      "clarity": {
-        "tr": "Net ve Anlaşılır",
-        "en": "Clear and Articulate"
-      }
-    }
-  },
-  {
-    "id": "metin",
-    "ad": "Metin",
-    "yas": 35,
-    "anlatim": "Esprili ve eğlenceli bir erkek fotoğrafçıdır. Maskülen duruşu, yuvarlak çenesi ve belirgin yüz hatları ile kadın karakterlerden tamamen farklıdır.",
-    "sabitPromptEn": "A 35-year-old male photographer known for his witty and fun personality. Standing at 185cm, he has a solid, athletic build. His light brown skin suggests a life spent both indoors and out. His friendly brown eyes and short, neat black hair give him the look of a seasoned and approachable professional.",
-    "anchorAccessoryEn": "He always wears a classic leather-strap watch.",
-    "img": "https://raw.githubusercontent.com/Lenastyle61/Gorseliletisim/main/metin%20profil%20resmi.png",
-    "stil": {
-      "sacModeli": {
-        "tr": "Kısa ve Düzgün",
-        "en": "Short and Neat"
-      },
-      "sacRengi": {
-        "tr": "Gece Siyahı",
-        "en": "Midnight Black"
-      },
-      "makyaj": {
-        "tr": "Yok",
-        "en": "None"
-      },
-      "kiyafet": {
-        "tr": "",
-        "en": ""
-      },
-      "aksesuarlar": [
-        "Yok"
-      ]
-    },
-    "voice": {
-      "tone": {
-        "tr": "Derin",
-        "en": "Deep"
-      },
-      "pitch": {
-        "tr": "Düşük",
-        "en": "Low"
-      },
-      "pace": {
-        "tr": "Normal",
-        "en": "Normal"
-      },
-      "age": {
-        "tr": "Yetişkin",
-        "en": "Adult"
-      },
-      "clarity": {
-        "tr": "Net ve Anlaşılır",
-        "en": "Clear and Articulate"
-      }
-    }
-  }
-]
+  ]
+}
