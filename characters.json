@@ -158,7 +158,7 @@
   {
     "id": "metin",
     "ad": "Metin",
-    "yas": 36,
+    "yas": 35,
     "anlatim": "Esprili ve eğlenceli bir erkek fotoğrafçıdır. Maskülen duruşu, yuvarlak çenesi ve belirgin yüz hatları ile kadın karakterlerden tamamen farklıdır.",
     "sabitPromptEn": "A 35-year-old male photographer known for his witty and fun personality. Standing at 185cm, he has a solid, athletic build. His light brown skin suggests a life spent both indoors and out. His friendly brown eyes and short, neat black hair give him the look of a seasoned and approachable professional.",
     "anchorAccessoryEn": "He always wears a classic leather-strap watch.",
@@ -186,8 +186,8 @@
     },
     "voice": {
       "tone": {
-        "tr": "Yumuşak",
-        "en": "Soft"
+        "tr": "Derin",
+        "en": "Deep"
       },
       "pitch": {
         "tr": "Düşük",
