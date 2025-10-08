@@ -8,47 +8,10 @@
     "anchorAccessoryEn": "She always wears a simple, delicate silver necklace.",
     "img": "https://github.com/LenaKayraStyle/AiFotofilm/blob/main/lena%20profil%20resmi.png?raw=true",
     "stil": {
-      "sacModeli": {
-        "tr": "Doğal Dalgalı",
-        "en": "Natural Wavy"
-      },
-      "sacRengi": {
-        "tr": "Espresso Kahve",
-        "en": "Espresso Brown"
-      },
-      "makyaj": {
-        "tr": "Minimal ve Doğal",
-        "en": "Minimal and Natural"
-      },
-      "kiyafet": {
-        "tr": "",
-        "en": ""
-      },
-      "aksesuarlar": [
-        "Yok"
-      ]
-    },
-    "voice": {
-      "tone": {
-        "tr": "Yumuşak",
-        "en": "Soft"
-      },
-      "pitch": {
-        "tr": "Orta",
-        "en": "Medium"
-      },
-      "pace": {
-        "tr": "Normal",
-        "en": "Normal"
-      },
-      "age": {
-        "tr": "Genç Yetişkin",
-        "en": "Young Adult"
-      },
-      "clarity": {
-        "tr": "Net ve Anlaşılır",
-        "en": "Clear and Articulate"
-      }
+      "outfit": "",
+      "hair": "Natural Wavy Espresso Brown",
+      "makeup": "Minimal and Natural",
+      "accessories": "no specific accessories"
     }
   },
   {
@@ -60,47 +23,10 @@
     "anchorAccessoryEn": "She always has a thin black leather bracelet on her right wrist.",
     "img": "https://github.com/LenaKayraStyle/AiFotofilm/blob/main/kayra%20profil%20resmi.png?raw=true",
     "stil": {
-      "sacModeli": {
-        "tr": "Yanlara Ayrılmış Lob",
-        "en": "Side-Parted Lob"
-      },
-      "sacRengi": {
-        "tr": "Pastel Pembe",
-        "en": "Pastel Pink"
-      },
-      "makyaj": {
-        "tr": "Kırmızı Ruj ve Eyeliner",
-        "en": "Red Lipstick and Eyeliner"
-      },
-      "kiyafet": {
-        "tr": "",
-        "en": ""
-      },
-      "aksesuarlar": [
-        "Yok"
-      ]
-    },
-    "voice": {
-      "tone": {
-        "tr": "Net",
-        "en": "Crisp"
-      },
-      "pitch": {
-        "tr": "Yüksek",
-        "en": "High"
-      },
-      "pace": {
-        "tr": "Hızlı",
-        "en": "Fast"
-      },
-      "age": {
-        "tr": "Genç Yetişkin",
-        "en": "Young Adult"
-      },
-      "clarity": {
-        "tr": "Net ve Anlaşılır",
-        "en": "Clear and Articulate"
-      }
+      "outfit": "",
+      "hair": "Side-Parted Lob Pastel Pink",
+      "makeup": "Red Lipstick and Eyeliner",
+      "accessories": "no specific accessories"
     }
   },
   {
@@ -112,99 +38,25 @@
     "anchorAccessoryEn": "She is never seen without her elegant gold hoop earrings.",
     "img": "https://github.com/LenaKayraStyle/AiFotofilm/blob/main/alara%20profil%20resmi.png?raw=true",
     "stil": {
-      "sacModeli": {
-        "tr": "Küt Kesim Bob",
-        "en": "Blunt Cut Bob"
-      },
-      "sacRengi": {
-        "tr": "Buzlu Platin Sarısı",
-        "en": "Icy Platinum Blonde"
-      },
-      "makyaj": {
-        "tr": "Dumanlı Göz Makyajı",
-        "en": "Smokey Eye"
-      },
-      "kiyafet": {
-        "tr": "",
-        "en": ""
-      },
-      "aksesuarlar": [
-        "Yok"
-      ]
-    },
-    "voice": {
-      "tone": {
-        "tr": "Tınılı",
-        "en": "Resonant"
-      },
-      "pitch": {
-        "tr": "Orta",
-        "en": "Medium"
-      },
-      "pace": {
-        "tr": "Normal",
-        "en": "Normal"
-      },
-      "age": {
-        "tr": "Genç Yetişkin",
-        "en": "Young Adult"
-      },
-      "clarity": {
-        "tr": "Net ve Anlaşılır",
-        "en": "Clear and Articulate"
-      }
+      "outfit": "",
+      "hair": "Blunt Cut Bob Icy Platinum Blonde",
+      "makeup": "Smokey Eye",
+      "accessories": "no specific accessories"
     }
   },
   {
     "id": "metin",
     "ad": "Metin",
-    "yas": 35,
+    "yas": "36",
     "anlatim": "Esprili ve eğlenceli bir erkek fotoğrafçıdır. Maskülen duruşu, yuvarlak çenesi ve belirgin yüz hatları ile kadın karakterlerden tamamen farklıdır.",
     "sabitPromptEn": "A 35-year-old male photographer known for his witty and fun personality. Standing at 185cm, he has a solid, athletic build. His light brown skin suggests a life spent both indoors and out. His friendly brown eyes and short, neat black hair give him the look of a seasoned and approachable professional.",
     "anchorAccessoryEn": "He always wears a classic leather-strap watch.",
     "img": "https://github.com/LenaKayraStyle/AiFotofilm/blob/main/metin%20profil%20resmi.png?raw=true",
     "stil": {
-      "sacModeli": {
-        "tr": "Kısa ve Düzgün",
-        "en": "Short and Neat"
-      },
-      "sacRengi": {
-        "tr": "Gece Siyahı",
-        "en": "Midnight Black"
-      },
-      "makyaj": {
-        "tr": "Yok",
-        "en": "None"
-      },
-      "kiyafet": {
-        "tr": "",
-        "en": ""
-      },
-      "aksesuarlar": [
-        "Yok"
-      ]
-    },
-    "voice": {
-      "tone": {
-        "tr": "Derin",
-        "en": "Deep"
-      },
-      "pitch": {
-        "tr": "Düşük",
-        "en": "Low"
-      },
-      "pace": {
-        "tr": "Normal",
-        "en": "Normal"
-      },
-      "age": {
-        "tr": "Yetişkin",
-        "en": "Adult"
-      },
-      "clarity": {
-        "tr": "Net ve Anlaşılır",
-        "en": "Clear and Articulate"
-      }
+      "outfit": "",
+      "hair": "Short and Neat Midnight Black",
+      "makeup": "None",
+      "accessories": "no specific accessories"
     }
   }
 ]
