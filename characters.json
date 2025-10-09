@@ -6,9 +6,9 @@
     "anlatim": "Zarif ve gizemli bir genç kadın modeldir. Oval yüzü, yüksek elmacık kemikleri ve dar çenesi ile simetrik ve dengeli bir görünüme sahiptir.",
     "sabitPromptEn": "A 22-year-old elegant woman, 180cm, athletic hourglass figure, porcelain skin, oval face, high cheekbones, and mysterious olive-green eyes flecked with gold.",
     "anchorAccessoryEn": "She always wears a simple, delicate silver necklace.",
-    "img": "https://github.com/LenaKayraStyle/AiFotofilm/blob/main/lena%20profil%20resmi.png?raw=true",
+    "img": "https://raw.githubusercontent.com/LenaKayraStyle/AiFotofilm/main/public/lena_profil_resmi.png",
     "stil": {
-      "outfit": "A flowing ivory Reformation 'Calla' silk slip dress paired with delicate gold Loeffler Randall 'Dahlia' block-heel sandals.",
+      "outfit": "",
       "hair": "Natural Wavy Espresso Brown",
       "makeup": "Minimal and Natural",
       "accessories": "no specific accessories"
@@ -21,9 +21,9 @@
     "anlatim": "Enerjik ve eğlenceli bir genç kadın modeldir. Yuvarlak yüz hatları, belirgin yanakları ve hafifçe dolgun dudaklarıyla genç ve neşeli bir görünüm sunar.",
     "sabitPromptEn": "A 21-year-old energetic woman, 175cm, slim athletic build, warm light-toned skin, round face with prominent cheeks, and bright blue eyes full of life.",
     "anchorAccessoryEn": "She always has a thin black leather bracelet on her right wrist.",
-    "img": "https://github.com/LenaKayraStyle/AiFotofilm/blob/main/kayra%20profil%20resmi.png?raw=true",
+    "img": "https://raw.githubusercontent.com/LenaKayraStyle/AiFotofilm/main/public/kayra_profil_resmi.png",
     "stil": {
-      "outfit": "A light pink Ganni 'Pleated Georgette' mini dress, paired with classic white Adidas Stan Smith sneakers.",
+      "outfit": "",
       "hair": "High Bob Pastel Pink",
       "makeup": "Eyeliner and Red Lipstick",
       "accessories": "no specific accessories"
@@ -36,7 +36,7 @@
     "anlatim": "Sosyetik ve karizmatik bir güzellik. Keskin ve belirgin çene hattına sahip kalp şeklinde bir yüzü var.",
     "sabitPromptEn": "A 23-year-old sophisticated woman, 177cm, slender figure, golden olive skin, heart-shaped face with a sharp jawline, and captivating honey-colored eyes.",
     "anchorAccessoryEn": "She is never seen without her elegant gold hoop earrings.",
-    "img": "https://github.com/LenaKayraStyle/AiFotofilm/blob/main/alara%20profil%20resmi.png?raw=true",
+    "img": "https://raw.githubusercontent.com/LenaKayraStyle/AiFotofilm/main/public/alara_profil_resmi.png",
     "stil": {
       "outfit": "",
       "hair": "Blunt Cut Bob Icy Platinum Blonde",
@@ -51,7 +51,7 @@
     "anlatim": "Esprili ve eğlenceli bir erkek fotoğrafçıdır. Maskülen duruşu, yuvarlak çenesi ve belirgin yüz hatları ile kadın karakterlerden tamamen farklıdır.",
     "sabitPromptEn": "A 35-year-old witty male photographer, 185cm, solid athletic build, light brown skin, friendly brown eyes, and short neat black hair.",
     "anchorAccessoryEn": "He always wears a classic leather-strap watch.",
-    "img": "https://github.com/LenaKayraStyle/AiFotofilm/blob/main/metin%20profil%20resmi.png?raw=true",
+    "img": "https://raw.githubusercontent.com/LenaKayraStyle/AiFotofilm/main/public/metin_profil_resmi.png",
     "stil": {
       "outfit": "",
       "hair": "Short and Neat Midnight Black",
